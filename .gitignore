@@ -14,3 +14,8 @@ interfaces/tools.descartes.teastore.entities/.classpath
 /e2e-tests/cypress/videos
 /e2e-tests/cypress/screenshots
 target/
+# Custom (SENG 533)
+experiments/jmeter/apache-jmeter-5.6.3/
+*.log
+*.jtl
+.DS_Store
