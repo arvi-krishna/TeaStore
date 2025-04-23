@@ -17,5 +17,6 @@ target/
 # Custom (SENG 533)
 experiments/jmeter/apache-jmeter-5.6.3/
 *.log
+!trial-*/docker-stats-*.log
 *.jtl
 .DS_Store
