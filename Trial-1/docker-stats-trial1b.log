@@ -1,0 +1,888 @@
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         0.28%     521.1MiB / 3.831GiB   13.28%    128kB / 86.9kB    33.3MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      0.13%     336.9MiB / 3.831GiB   8.59%     504kB / 333kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   0.27%     521.4MiB / 3.831GiB   13.29%    1.7MB / 1.46MB    37.5MB / 35.1MB   66
+035d48a99e73   docker-recommender-1   0.27%     479.5MiB / 3.831GiB   12.22%    193kB / 118kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.05%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         0.28%     495.5MiB / 3.831GiB   12.63%    137kB / 185kB     40.8MB / 30.5MB   104
+af85b84761fe   docker-auth-1          0.22%     412.1MiB / 3.831GiB   10.51%    53.8kB / 82.5kB   23.4MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         0.28%     521.1MiB / 3.831GiB   13.28%    128kB / 86.9kB    33.3MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      0.13%     336.9MiB / 3.831GiB   8.59%     504kB / 333kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   0.27%     521.4MiB / 3.831GiB   13.29%    1.7MB / 1.46MB    37.5MB / 35.1MB   66
+035d48a99e73   docker-recommender-1   0.27%     479.5MiB / 3.831GiB   12.22%    193kB / 118kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.05%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         0.28%     495.5MiB / 3.831GiB   12.63%    137kB / 185kB     40.8MB / 30.5MB   104
+af85b84761fe   docker-auth-1          0.22%     412.1MiB / 3.831GiB   10.51%    53.8kB / 82.5kB   23.4MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         32.84%    521.1MiB / 3.831GiB   13.28%    128kB / 87.2kB    33.3MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      14.48%    336.9MiB / 3.831GiB   8.59%     506kB / 335kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   41.09%    521.3MiB / 3.831GiB   13.29%    1.7MB / 1.46MB    37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   103.38%   488MiB / 3.831GiB     12.44%    194kB / 119kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            2.22%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         72.38%    495.8MiB / 3.831GiB   12.64%    138kB / 187kB     40.8MB / 30.5MB   104
+af85b84761fe   docker-auth-1          186.68%   415.4MiB / 3.831GiB   10.59%    55.6kB / 83.1kB   23.4MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         32.84%    521.1MiB / 3.831GiB   13.28%    128kB / 87.2kB    33.3MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      14.48%    336.9MiB / 3.831GiB   8.59%     506kB / 335kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   41.09%    521.3MiB / 3.831GiB   13.29%    1.7MB / 1.46MB    37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   103.38%   488MiB / 3.831GiB     12.44%    194kB / 119kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            2.22%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         72.38%    495.8MiB / 3.831GiB   12.64%    138kB / 187kB     40.8MB / 30.5MB   104
+af85b84761fe   docker-auth-1          186.68%   415.4MiB / 3.831GiB   10.59%    55.6kB / 83.1kB   23.4MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         36.58%    521.7MiB / 3.831GiB   13.30%    129kB / 87.8kB    33.3MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      6.34%     336.9MiB / 3.831GiB   8.59%     509kB / 336kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   4.23%     521.3MiB / 3.831GiB   13.29%    1.7MB / 1.46MB    37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   33.45%    494.3MiB / 3.831GiB   12.60%    194kB / 120kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.88%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         146.50%   500MiB / 3.831GiB     12.75%    139kB / 190kB     40.8MB / 30.5MB   124
+af85b84761fe   docker-auth-1          217.55%   427.6MiB / 3.831GiB   10.90%    55.8kB / 83.6kB   23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         36.58%    521.7MiB / 3.831GiB   13.30%    129kB / 87.8kB    33.3MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      6.34%     336.9MiB / 3.831GiB   8.59%     509kB / 336kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   4.23%     521.3MiB / 3.831GiB   13.29%    1.7MB / 1.46MB    37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   33.45%    494.3MiB / 3.831GiB   12.60%    194kB / 120kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.88%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         146.50%   500MiB / 3.831GiB     12.75%    139kB / 190kB     40.8MB / 30.5MB   124
+af85b84761fe   docker-auth-1          217.55%   427.6MiB / 3.831GiB   10.90%    55.8kB / 83.6kB   23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         185.02%   525MiB / 3.831GiB     13.38%    130kB / 98.2kB    34.9MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      5.78%     336.9MiB / 3.831GiB   8.59%     511kB / 338kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   41.82%    521.3MiB / 3.831GiB   13.29%    1.7MB / 1.46MB    37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   9.70%     494.3MiB / 3.831GiB   12.60%    195kB / 120kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.30%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         33.30%    500.4MiB / 3.831GiB   12.76%    150kB / 191kB     40.8MB / 30.5MB   124
+af85b84761fe   docker-auth-1          65.41%    427.3MiB / 3.831GiB   10.89%    56.3kB / 84.3kB   23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         185.02%   525MiB / 3.831GiB     13.38%    130kB / 98.2kB    34.9MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      5.78%     336.9MiB / 3.831GiB   8.59%     511kB / 338kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   41.82%    521.3MiB / 3.831GiB   13.29%    1.7MB / 1.46MB    37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   9.70%     494.3MiB / 3.831GiB   12.60%    195kB / 120kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.30%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         33.30%    500.4MiB / 3.831GiB   12.76%    150kB / 191kB     40.8MB / 30.5MB   124
+af85b84761fe   docker-auth-1          65.41%    427.3MiB / 3.831GiB   10.89%    56.3kB / 84.3kB   23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         17.17%    525.4MiB / 3.831GiB   13.39%    130kB / 98.5kB    35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      4.21%     336.9MiB / 3.831GiB   8.59%     513kB / 339kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   4.14%     521.3MiB / 3.831GiB   13.29%    1.7MB / 1.46MB    37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   9.76%     494.6MiB / 3.831GiB   12.61%    195kB / 120kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.18%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         176.89%   510.3MiB / 3.831GiB   13.01%    151kB / 192kB     45.3MB / 30.5MB   124
+af85b84761fe   docker-auth-1          14.17%    427.3MiB / 3.831GiB   10.89%    56.3kB / 84.3kB   23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         17.17%    525.4MiB / 3.831GiB   13.39%    130kB / 98.5kB    35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      4.21%     336.9MiB / 3.831GiB   8.59%     513kB / 339kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   4.14%     521.3MiB / 3.831GiB   13.29%    1.7MB / 1.46MB    37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   9.76%     494.6MiB / 3.831GiB   12.61%    195kB / 120kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.18%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         176.89%   510.3MiB / 3.831GiB   13.01%    151kB / 192kB     45.3MB / 30.5MB   124
+af85b84761fe   docker-auth-1          14.17%    427.3MiB / 3.831GiB   10.89%    56.3kB / 84.3kB   23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         43.62%    525.1MiB / 3.831GiB   13.38%    131kB / 99.3kB    35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      5.16%     336.9MiB / 3.831GiB   8.59%     515kB / 340kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   11.98%    521.8MiB / 3.831GiB   13.30%    1.7MB / 1.46MB    37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   14.55%    479.9MiB / 3.831GiB   12.23%    196kB / 121kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.30%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         213.17%   510.2MiB / 3.831GiB   13.01%    151kB / 192kB     45.4MB / 30.5MB   124
+af85b84761fe   docker-auth-1          19.25%    427.4MiB / 3.831GiB   10.89%    56.5kB / 84.8kB   23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         43.62%    525.1MiB / 3.831GiB   13.38%    131kB / 99.3kB    35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      5.16%     336.9MiB / 3.831GiB   8.59%     515kB / 340kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   11.98%    521.8MiB / 3.831GiB   13.30%    1.7MB / 1.46MB    37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   14.55%    479.9MiB / 3.831GiB   12.23%    196kB / 121kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.30%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         213.17%   510.2MiB / 3.831GiB   13.01%    151kB / 192kB     45.4MB / 30.5MB   124
+af85b84761fe   docker-auth-1          19.25%    427.4MiB / 3.831GiB   10.89%    56.5kB / 84.8kB   23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         3.35%     525.6MiB / 3.831GiB   13.40%    131kB / 99.3kB    35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      25.91%    341.4MiB / 3.831GiB   8.70%     516kB / 341kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   6.80%     521.3MiB / 3.831GiB   13.29%    1.7MB / 1.46MB    37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   2.14%     479.7MiB / 3.831GiB   12.23%    196kB / 121kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.15%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         215.40%   524.8MiB / 3.831GiB   13.38%    151kB / 192kB     46.5MB / 30.5MB   124
+af85b84761fe   docker-auth-1          12.70%    427.4MiB / 3.831GiB   10.89%    56.8kB / 85.1kB   23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         3.35%     525.6MiB / 3.831GiB   13.40%    131kB / 99.3kB    35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      25.91%    341.4MiB / 3.831GiB   8.70%     516kB / 341kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   6.80%     521.3MiB / 3.831GiB   13.29%    1.7MB / 1.46MB    37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   2.14%     479.7MiB / 3.831GiB   12.23%    196kB / 121kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.15%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         215.40%   524.8MiB / 3.831GiB   13.38%    151kB / 192kB     46.5MB / 30.5MB   124
+af85b84761fe   docker-auth-1          12.70%    427.4MiB / 3.831GiB   10.89%    56.8kB / 85.1kB   23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         12.91%    525.1MiB / 3.831GiB   13.38%    131kB / 99.7kB    35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      5.66%     341.2MiB / 3.831GiB   8.70%     519kB / 343kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   1.25%     521.3MiB / 3.831GiB   13.29%    1.7MB / 1.46MB    37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   5.78%     479.7MiB / 3.831GiB   12.23%    196kB / 122kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.17%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         235.88%   527.1MiB / 3.831GiB   13.44%    152kB / 194kB     46.5MB / 30.5MB   124
+af85b84761fe   docker-auth-1          14.15%    425.7MiB / 3.831GiB   10.85%    57kB / 85.5kB     23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         12.91%    525.1MiB / 3.831GiB   13.38%    131kB / 99.7kB    35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      5.66%     341.2MiB / 3.831GiB   8.70%     519kB / 343kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   1.25%     521.3MiB / 3.831GiB   13.29%    1.7MB / 1.46MB    37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   5.78%     479.7MiB / 3.831GiB   12.23%    196kB / 122kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.17%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         235.88%   527.1MiB / 3.831GiB   13.44%    152kB / 194kB     46.5MB / 30.5MB   124
+af85b84761fe   docker-auth-1          14.15%    425.7MiB / 3.831GiB   10.85%    57kB / 85.5kB     23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         11.84%    525.1MiB / 3.831GiB   13.38%    131kB / 100kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      6.22%     341.2MiB / 3.831GiB   8.70%     521kB / 344kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   14.42%    521.3MiB / 3.831GiB   13.29%    1.7MB / 1.46MB    37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   7.77%     479.9MiB / 3.831GiB   12.23%    196kB / 123kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.20%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         214.21%   528.9MiB / 3.831GiB   13.48%    152kB / 194kB     46.5MB / 30.5MB   124
+af85b84761fe   docker-auth-1          12.18%    425.7MiB / 3.831GiB   10.85%    57.2kB / 85.9kB   23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         11.84%    525.1MiB / 3.831GiB   13.38%    131kB / 100kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      6.22%     341.2MiB / 3.831GiB   8.70%     521kB / 344kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   14.42%    521.3MiB / 3.831GiB   13.29%    1.7MB / 1.46MB    37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   7.77%     479.9MiB / 3.831GiB   12.23%    196kB / 123kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.20%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         214.21%   528.9MiB / 3.831GiB   13.48%    152kB / 194kB     46.5MB / 30.5MB   124
+af85b84761fe   docker-auth-1          12.18%    425.7MiB / 3.831GiB   10.85%    57.2kB / 85.9kB   23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         23.16%    525.3MiB / 3.831GiB   13.39%    133kB / 111kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      7.81%     341.2MiB / 3.831GiB   8.70%     523kB / 346kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   20.87%    521.4MiB / 3.831GiB   13.29%    1.7MB / 1.46MB    37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   8.81%     479.7MiB / 3.831GiB   12.23%    196kB / 123kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.20%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         226.68%   533.1MiB / 3.831GiB   13.59%    166kB / 218kB     46.6MB / 30.5MB   125
+af85b84761fe   docker-auth-1          19.54%    416.1MiB / 3.831GiB   10.61%    58.9kB / 86.6kB   23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         23.16%    525.3MiB / 3.831GiB   13.39%    133kB / 111kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      7.81%     341.2MiB / 3.831GiB   8.70%     523kB / 346kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   20.87%    521.4MiB / 3.831GiB   13.29%    1.7MB / 1.46MB    37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   8.81%     479.7MiB / 3.831GiB   12.23%    196kB / 123kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.49%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         226.68%   533.1MiB / 3.831GiB   13.59%    166kB / 218kB     46.6MB / 30.5MB   125
+af85b84761fe   docker-auth-1          19.54%    416.1MiB / 3.831GiB   10.61%    58.9kB / 86.6kB   23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         23.16%    525.3MiB / 3.831GiB   13.39%    133kB / 111kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      7.81%     341.2MiB / 3.831GiB   8.70%     523kB / 346kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   20.87%    521.4MiB / 3.831GiB   13.29%    1.7MB / 1.46MB    37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   8.81%     479.7MiB / 3.831GiB   12.23%    196kB / 123kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.49%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         226.68%   533.1MiB / 3.831GiB   13.59%    166kB / 218kB     46.6MB / 30.5MB   125
+af85b84761fe   docker-auth-1          19.54%    416.1MiB / 3.831GiB   10.61%    58.9kB / 86.6kB   23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         17.11%    525.3MiB / 3.831GiB   13.39%    133kB / 111kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      7.92%     341.3MiB / 3.831GiB   8.70%     525kB / 347kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   42.40%    521.4MiB / 3.831GiB   13.29%    1.7MB / 1.46MB    37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   68.57%    480.4MiB / 3.831GiB   12.24%    197kB / 123kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.12%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         168.78%   534.7MiB / 3.831GiB   13.63%    166kB / 218kB     46.6MB / 30.5MB   125
+af85b84761fe   docker-auth-1          13.08%    416.1MiB / 3.831GiB   10.61%    59.4kB / 87.4kB   23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         17.11%    525.3MiB / 3.831GiB   13.39%    133kB / 111kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      7.92%     341.3MiB / 3.831GiB   8.70%     525kB / 347kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   42.40%    521.4MiB / 3.831GiB   13.29%    1.7MB / 1.46MB    37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   68.57%    480.4MiB / 3.831GiB   12.24%    197kB / 123kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.12%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         168.78%   534.7MiB / 3.831GiB   13.63%    166kB / 218kB     46.6MB / 30.5MB   125
+af85b84761fe   docker-auth-1          13.08%    416.1MiB / 3.831GiB   10.61%    59.4kB / 87.4kB   23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         1.78%     525.3MiB / 3.831GiB   13.39%    133kB / 111kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      2.51%     341.3MiB / 3.831GiB   8.70%     527kB / 348kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   45.44%    521.5MiB / 3.831GiB   13.29%    1.7MB / 1.46MB    37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   38.49%    479.7MiB / 3.831GiB   12.23%    197kB / 124kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            1.28%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         181.79%   564MiB / 3.831GiB     14.37%    170kB / 241kB     46.6MB / 30.5MB   125
+af85b84761fe   docker-auth-1          0.54%     416.1MiB / 3.831GiB   10.61%    59.4kB / 87.4kB   23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         1.78%     525.3MiB / 3.831GiB   13.39%    133kB / 111kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      2.51%     341.3MiB / 3.831GiB   8.70%     527kB / 348kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   45.44%    521.5MiB / 3.831GiB   13.29%    1.7MB / 1.46MB    37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   38.49%    479.7MiB / 3.831GiB   12.23%    197kB / 124kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            1.28%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         181.79%   564MiB / 3.831GiB     14.37%    170kB / 241kB     46.6MB / 30.5MB   125
+af85b84761fe   docker-auth-1          0.54%     416.1MiB / 3.831GiB   10.61%    59.4kB / 87.4kB   23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         35.80%    525.6MiB / 3.831GiB   13.40%    136kB / 132kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      8.95%     341.4MiB / 3.831GiB   8.70%     529kB / 349kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   8.45%     521.6MiB / 3.831GiB   13.29%    1.71MB / 1.46MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   61.78%    483MiB / 3.831GiB     12.31%    199kB / 125kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.26%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         97.12%    566.3MiB / 3.831GiB   14.43%    195kB / 269kB     46.6MB / 30.5MB   145
+af85b84761fe   docker-auth-1          19.64%    416.3MiB / 3.831GiB   10.61%    63kB / 89kB       23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         35.80%    525.6MiB / 3.831GiB   13.40%    136kB / 132kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      8.95%     341.4MiB / 3.831GiB   8.70%     529kB / 349kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   8.45%     521.6MiB / 3.831GiB   13.29%    1.71MB / 1.46MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   61.78%    483MiB / 3.831GiB     12.31%    199kB / 125kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.26%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         97.12%    566.3MiB / 3.831GiB   14.43%    195kB / 269kB     46.6MB / 30.5MB   145
+af85b84761fe   docker-auth-1          19.64%    416.3MiB / 3.831GiB   10.61%    63kB / 89kB       23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         63.02%    525.7MiB / 3.831GiB   13.40%    137kB / 133kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      17.82%    341.5MiB / 3.831GiB   8.70%     531kB / 351kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   22.75%    521.6MiB / 3.831GiB   13.29%    1.71MB / 1.46MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   85.44%    482.1MiB / 3.831GiB   12.29%    199kB / 126kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.22%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         168.19%   570MiB / 3.831GiB     14.53%    196kB / 271kB     46.6MB / 30.5MB   145
+af85b84761fe   docker-auth-1          29.04%    416.4MiB / 3.831GiB   10.61%    63.2kB / 89.4kB   23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         63.02%    525.7MiB / 3.831GiB   13.40%    137kB / 133kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      17.82%    341.5MiB / 3.831GiB   8.70%     531kB / 351kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   22.75%    521.6MiB / 3.831GiB   13.29%    1.71MB / 1.46MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   85.44%    482.1MiB / 3.831GiB   12.29%    199kB / 126kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.22%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         168.19%   570MiB / 3.831GiB     14.53%    196kB / 271kB     46.6MB / 30.5MB   145
+af85b84761fe   docker-auth-1          29.04%    416.4MiB / 3.831GiB   10.61%    63.2kB / 89.4kB   23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         24.24%    525.9MiB / 3.831GiB   13.40%    137kB / 134kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      4.82%     341.5MiB / 3.831GiB   8.70%     534kB / 353kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   1.20%     521.6MiB / 3.831GiB   13.29%    1.71MB / 1.46MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   34.63%    482.4MiB / 3.831GiB   12.30%    200kB / 126kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.14%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         163.24%   573.1MiB / 3.831GiB   14.61%    197kB / 272kB     46.6MB / 30.5MB   145
+af85b84761fe   docker-auth-1          45.24%    416.4MiB / 3.831GiB   10.61%    63.4kB / 89.8kB   23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         24.24%    525.9MiB / 3.831GiB   13.40%    137kB / 134kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      4.82%     341.5MiB / 3.831GiB   8.70%     534kB / 353kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   1.20%     521.6MiB / 3.831GiB   13.29%    1.71MB / 1.46MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   34.63%    482.4MiB / 3.831GiB   12.30%    200kB / 126kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.14%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         163.24%   573.1MiB / 3.831GiB   14.61%    197kB / 272kB     46.6MB / 30.5MB   145
+af85b84761fe   docker-auth-1          45.24%    416.4MiB / 3.831GiB   10.61%    63.4kB / 89.8kB   23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         13.61%    525.9MiB / 3.831GiB   13.40%    137kB / 134kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      4.34%     341.5MiB / 3.831GiB   8.70%     536kB / 354kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   26.72%    521.6MiB / 3.831GiB   13.30%    1.71MB / 1.46MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   17.75%    482.4MiB / 3.831GiB   12.30%    200kB / 127kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.67%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         173.82%   578MiB / 3.831GiB     14.73%    197kB / 272kB     46.9MB / 30.5MB   145
+af85b84761fe   docker-auth-1          12.98%    416.5MiB / 3.831GiB   10.62%    63.7kB / 90.1kB   23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         13.61%    525.9MiB / 3.831GiB   13.40%    137kB / 134kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      4.34%     341.5MiB / 3.831GiB   8.70%     536kB / 354kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   26.72%    521.6MiB / 3.831GiB   13.30%    1.71MB / 1.46MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   17.75%    482.4MiB / 3.831GiB   12.30%    200kB / 127kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.67%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         173.82%   578MiB / 3.831GiB     14.73%    197kB / 272kB     46.9MB / 30.5MB   145
+af85b84761fe   docker-auth-1          12.98%    416.5MiB / 3.831GiB   10.62%    63.7kB / 90.1kB   23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         45.86%    526.1MiB / 3.831GiB   13.41%    142kB / 175kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      11.83%    341.5MiB / 3.831GiB   8.70%     537kB / 355kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   40.33%    521.9MiB / 3.831GiB   13.30%    1.71MB / 1.47MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   16.10%    482.4MiB / 3.831GiB   12.30%    200kB / 127kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            6.76%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         146.83%   581.4MiB / 3.831GiB   14.82%    252kB / 378kB     46.9MB / 30.5MB   145
+af85b84761fe   docker-auth-1          34.68%    416.8MiB / 3.831GiB   10.62%    70.3kB / 92.3kB   23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         45.86%    526.1MiB / 3.831GiB   13.41%    142kB / 175kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      11.83%    341.5MiB / 3.831GiB   8.70%     537kB / 355kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   40.33%    521.9MiB / 3.831GiB   13.30%    1.71MB / 1.47MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   16.10%    482.4MiB / 3.831GiB   12.30%    200kB / 127kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            6.76%     117.8MiB / 3.831GiB   3.00%     1.23MB / 1.67MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         146.83%   581.4MiB / 3.831GiB   14.82%    252kB / 378kB     46.9MB / 30.5MB   145
+af85b84761fe   docker-auth-1          34.68%    416.8MiB / 3.831GiB   10.62%    70.3kB / 92.3kB   23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         94.80%    526.3MiB / 3.831GiB   13.42%    147kB / 207kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      5.89%     338.1MiB / 3.831GiB   8.62%     539kB / 356kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   109.81%   523.9MiB / 3.831GiB   13.35%    1.72MB / 1.48MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   58.94%    482.5MiB / 3.831GiB   12.30%    201kB / 128kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.89%     117.7MiB / 3.831GiB   3.00%     1.23MB / 1.68MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         99.92%    581.8MiB / 3.831GiB   14.83%    294kB / 461kB     46.9MB / 30.5MB   145
+af85b84761fe   docker-auth-1          32.55%    417.2MiB / 3.831GiB   10.63%    75.5kB / 94.4kB   23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         94.80%    526.3MiB / 3.831GiB   13.42%    147kB / 207kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      5.89%     338.1MiB / 3.831GiB   8.62%     539kB / 356kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   109.81%   523.9MiB / 3.831GiB   13.35%    1.72MB / 1.48MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   58.94%    482.5MiB / 3.831GiB   12.30%    201kB / 128kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.89%     117.7MiB / 3.831GiB   3.00%     1.23MB / 1.68MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         99.92%    581.8MiB / 3.831GiB   14.83%    294kB / 461kB     46.9MB / 30.5MB   145
+af85b84761fe   docker-auth-1          32.55%    417.2MiB / 3.831GiB   10.63%    75.5kB / 94.4kB   23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         94.80%    526.3MiB / 3.831GiB   13.42%    147kB / 207kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      12.98%    338.6MiB / 3.831GiB   8.63%     541kB / 357kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   30.48%    525.2MiB / 3.831GiB   13.39%    1.74MB / 1.49MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   58.94%    482.5MiB / 3.831GiB   12.30%    201kB / 128kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.89%     117.7MiB / 3.831GiB   3.00%     1.23MB / 1.68MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         157.68%   583.8MiB / 3.831GiB   14.88%    414kB / 678kB     46.9MB / 30.5MB   145
+af85b84761fe   docker-auth-1          32.55%    417.2MiB / 3.831GiB   10.63%    75.5kB / 94.4kB   23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         50.82%    526.9MiB / 3.831GiB   13.43%    161kB / 300kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      12.98%    338.6MiB / 3.831GiB   8.63%     541kB / 357kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   30.48%    525.2MiB / 3.831GiB   13.39%    1.74MB / 1.49MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   57.72%    483MiB / 3.831GiB     12.31%    204kB / 130kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            1.06%     117.7MiB / 3.831GiB   3.00%     1.23MB / 1.69MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         157.68%   583.8MiB / 3.831GiB   14.88%    414kB / 678kB     46.9MB / 30.5MB   145
+af85b84761fe   docker-auth-1          48.14%    417.7MiB / 3.831GiB   10.65%    90.7kB / 99.8kB   23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         50.82%    526.9MiB / 3.831GiB   13.43%    161kB / 300kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      12.98%    338.6MiB / 3.831GiB   8.63%     541kB / 357kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   30.48%    525.2MiB / 3.831GiB   13.39%    1.74MB / 1.49MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   57.72%    483MiB / 3.831GiB     12.31%    204kB / 130kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            1.06%     117.7MiB / 3.831GiB   3.00%     1.23MB / 1.69MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         157.68%   583.8MiB / 3.831GiB   14.88%    414kB / 678kB     46.9MB / 30.5MB   145
+af85b84761fe   docker-auth-1          48.14%    417.7MiB / 3.831GiB   10.65%    90.7kB / 99.8kB   23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         52.24%    527MiB / 3.831GiB     13.43%    177kB / 424kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      6.62%     331.5MiB / 3.831GiB   8.45%     544kB / 359kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   53.04%    528.2MiB / 3.831GiB   13.46%    1.76MB / 1.51MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   17.83%    483.3MiB / 3.831GiB   12.32%    207kB / 132kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            1.10%     117.7MiB / 3.831GiB   3.00%     1.24MB / 1.7MB    35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         153.62%   586.4MiB / 3.831GiB   14.95%    577kB / 969kB     46.9MB / 30.5MB   145
+af85b84761fe   docker-auth-1          38.93%    418.6MiB / 3.831GiB   10.67%    111kB / 107kB     23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         52.24%    527MiB / 3.831GiB     13.43%    177kB / 424kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      6.62%     331.5MiB / 3.831GiB   8.45%     544kB / 359kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   53.04%    528.2MiB / 3.831GiB   13.46%    1.76MB / 1.51MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   17.83%    483.3MiB / 3.831GiB   12.32%    207kB / 132kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            1.10%     117.7MiB / 3.831GiB   3.00%     1.24MB / 1.7MB    35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         153.62%   586.4MiB / 3.831GiB   14.95%    577kB / 969kB     46.9MB / 30.5MB   145
+af85b84761fe   docker-auth-1          38.93%    418.6MiB / 3.831GiB   10.67%    111kB / 107kB     23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         40.24%    527.4MiB / 3.831GiB   13.44%    194kB / 548kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      4.32%     331.5MiB / 3.831GiB   8.45%     546kB / 361kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   51.54%    530.2MiB / 3.831GiB   13.51%    1.78MB / 1.53MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   21.02%    483.6MiB / 3.831GiB   12.33%    210kB / 134kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.60%     117.7MiB / 3.831GiB   3.00%     1.24MB / 1.71MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         169.95%   590.4MiB / 3.831GiB   15.05%    733kB / 1.23MB    46.9MB / 30.5MB   145
+af85b84761fe   docker-auth-1          44.06%    419.2MiB / 3.831GiB   10.69%    129kB / 113kB     23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         40.24%    527.4MiB / 3.831GiB   13.44%    194kB / 548kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      4.32%     331.5MiB / 3.831GiB   8.45%     546kB / 361kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   51.54%    530.2MiB / 3.831GiB   13.51%    1.78MB / 1.53MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   21.02%    483.6MiB / 3.831GiB   12.33%    210kB / 134kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.60%     117.7MiB / 3.831GiB   3.00%     1.24MB / 1.71MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         169.95%   590.4MiB / 3.831GiB   15.05%    733kB / 1.23MB    46.9MB / 30.5MB   145
+af85b84761fe   docker-auth-1          44.06%    419.2MiB / 3.831GiB   10.69%    129kB / 113kB     23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         79.74%    528MiB / 3.831GiB     13.46%    209kB / 652kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      6.18%     331.5MiB / 3.831GiB   8.45%     548kB / 362kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   31.99%    532.8MiB / 3.831GiB   13.58%    1.8MB / 1.54MB    37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   27.82%    483.8MiB / 3.831GiB   12.33%    214kB / 136kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.60%     117.5MiB / 3.831GiB   2.99%     1.25MB / 1.72MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         141.25%   593.4MiB / 3.831GiB   15.12%    869kB / 1.48MB    46.9MB / 30.5MB   145
+af85b84761fe   docker-auth-1          32.49%    419.5MiB / 3.831GiB   10.69%    148kB / 120kB     23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         79.74%    528MiB / 3.831GiB     13.46%    209kB / 652kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      6.18%     331.5MiB / 3.831GiB   8.45%     548kB / 362kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   31.99%    532.8MiB / 3.831GiB   13.58%    1.8MB / 1.54MB    37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   27.82%    483.8MiB / 3.831GiB   12.33%    214kB / 136kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.60%     117.5MiB / 3.831GiB   2.99%     1.25MB / 1.72MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         141.25%   593.4MiB / 3.831GiB   15.12%    869kB / 1.48MB    46.9MB / 30.5MB   145
+af85b84761fe   docker-auth-1          32.49%    419.5MiB / 3.831GiB   10.69%    148kB / 120kB     23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         46.74%    528.2MiB / 3.831GiB   13.46%    223kB / 755kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      6.16%     331.5MiB / 3.831GiB   8.45%     551kB / 364kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   51.88%    535.1MiB / 3.831GiB   13.64%    1.82MB / 1.56MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   39.49%    484.2MiB / 3.831GiB   12.34%    215kB / 137kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.48%     117.5MiB / 3.831GiB   2.99%     1.25MB / 1.73MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         173.67%   594.5MiB / 3.831GiB   15.15%    998kB / 1.71MB    46.9MB / 30.5MB   145
+af85b84761fe   docker-auth-1          26.89%    420MiB / 3.831GiB     10.71%    163kB / 125kB     23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         46.74%    528.2MiB / 3.831GiB   13.46%    223kB / 755kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      6.16%     331.5MiB / 3.831GiB   8.45%     551kB / 364kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   51.88%    535.1MiB / 3.831GiB   13.64%    1.82MB / 1.56MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   39.49%    484.2MiB / 3.831GiB   12.34%    215kB / 137kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.48%     117.5MiB / 3.831GiB   2.99%     1.25MB / 1.73MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         173.67%   594.5MiB / 3.831GiB   15.15%    998kB / 1.71MB    46.9MB / 30.5MB   145
+af85b84761fe   docker-auth-1          26.89%    420MiB / 3.831GiB     10.71%    163kB / 125kB     23.5MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         48.96%    529MiB / 3.831GiB     13.48%    244kB / 910kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      4.70%     331.5MiB / 3.831GiB   8.45%     552kB / 365kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   55.86%    538MiB / 3.831GiB     13.71%    1.85MB / 1.58MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   46.83%    485.5MiB / 3.831GiB   12.38%    220kB / 139kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.62%     117.5MiB / 3.831GiB   2.99%     1.26MB / 1.75MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         146.84%   594.6MiB / 3.831GiB   15.16%    1.2MB / 2.07MB    46.9MB / 30.5MB   145
+af85b84761fe   docker-auth-1          53.20%    421.2MiB / 3.831GiB   10.74%    189kB / 134kB     23.6MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         48.96%    529MiB / 3.831GiB     13.48%    244kB / 910kB     35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      4.70%     331.5MiB / 3.831GiB   8.45%     552kB / 365kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   55.86%    538MiB / 3.831GiB     13.71%    1.85MB / 1.58MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   46.83%    485.5MiB / 3.831GiB   12.38%    220kB / 139kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.62%     117.5MiB / 3.831GiB   2.99%     1.26MB / 1.75MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         146.84%   594.6MiB / 3.831GiB   15.16%    1.2MB / 2.07MB    46.9MB / 30.5MB   145
+af85b84761fe   docker-auth-1          53.20%    421.2MiB / 3.831GiB   10.74%    189kB / 134kB     23.6MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         57.33%    529.1MiB / 3.831GiB   13.49%    262kB / 1.03MB    35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      6.02%     331.5MiB / 3.831GiB   8.45%     554kB / 366kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   41.31%    540MiB / 3.831GiB     13.76%    1.87MB / 1.6MB    37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   35.89%    484.4MiB / 3.831GiB   12.35%    223kB / 142kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.54%     98.61MiB / 3.831GiB   2.51%     1.26MB / 1.76MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         134.56%   591.1MiB / 3.831GiB   15.07%    1.35MB / 2.36MB   47MB / 30.5MB     146
+af85b84761fe   docker-auth-1          59.08%    421.8MiB / 3.831GiB   10.75%    209kB / 141kB     23.6MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         57.33%    529.1MiB / 3.831GiB   13.49%    262kB / 1.03MB    35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      6.02%     331.5MiB / 3.831GiB   8.45%     554kB / 366kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   41.31%    540MiB / 3.831GiB     13.76%    1.87MB / 1.6MB    37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   35.89%    484.4MiB / 3.831GiB   12.35%    223kB / 142kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.54%     98.61MiB / 3.831GiB   2.51%     1.26MB / 1.76MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         134.56%   591.1MiB / 3.831GiB   15.07%    1.35MB / 2.36MB   47MB / 30.5MB     146
+af85b84761fe   docker-auth-1          59.08%    421.8MiB / 3.831GiB   10.75%    209kB / 141kB     23.6MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         34.37%    529.1MiB / 3.831GiB   13.49%    275kB / 1.13MB    35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      3.58%     331.5MiB / 3.831GiB   8.45%     556kB / 367kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   129.08%   547MiB / 3.831GiB     13.94%    1.89MB / 1.62MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   18.42%    484.6MiB / 3.831GiB   12.35%    225kB / 144kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.99%     98.61MiB / 3.831GiB   2.51%     1.26MB / 1.77MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         100.18%   591.7MiB / 3.831GiB   15.08%    1.49MB / 2.6MB    47MB / 30.5MB     146
+af85b84761fe   docker-auth-1          61.03%    423.1MiB / 3.831GiB   10.79%    226kB / 147kB     23.6MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         34.37%    529.1MiB / 3.831GiB   13.49%    275kB / 1.13MB    35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      3.58%     331.5MiB / 3.831GiB   8.45%     556kB / 367kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   129.08%   547MiB / 3.831GiB     13.94%    1.89MB / 1.62MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   18.42%    484.6MiB / 3.831GiB   12.35%    225kB / 144kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.99%     98.61MiB / 3.831GiB   2.51%     1.26MB / 1.77MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         100.18%   591.7MiB / 3.831GiB   15.08%    1.49MB / 2.6MB    47MB / 30.5MB     146
+af85b84761fe   docker-auth-1          61.03%    423.1MiB / 3.831GiB   10.79%    226kB / 147kB     23.6MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         84.30%    533.5MiB / 3.831GiB   13.60%    292kB / 1.25MB    35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      18.40%    331.5MiB / 3.831GiB   8.45%     558kB / 369kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   129.08%   547MiB / 3.831GiB     13.94%    1.89MB / 1.62MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   22.84%    484.8MiB / 3.831GiB   12.36%    228kB / 145kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.99%     98.61MiB / 3.831GiB   2.51%     1.26MB / 1.77MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         154.40%   592.1MiB / 3.831GiB   15.09%    1.65MB / 2.89MB   47MB / 30.5MB     146
+af85b84761fe   docker-auth-1          45.09%    423.1MiB / 3.831GiB   10.79%    245kB / 154kB     23.6MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         84.30%    533.5MiB / 3.831GiB   13.60%    292kB / 1.25MB    35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      18.40%    331.5MiB / 3.831GiB   8.45%     558kB / 369kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   41.70%    549.4MiB / 3.831GiB   14.00%    1.92MB / 1.64MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   22.84%    484.8MiB / 3.831GiB   12.36%    228kB / 145kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            1.21%     98.61MiB / 3.831GiB   2.51%     1.27MB / 1.78MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         154.40%   592.1MiB / 3.831GiB   15.09%    1.65MB / 2.89MB   47MB / 30.5MB     146
+af85b84761fe   docker-auth-1          45.09%    423.1MiB / 3.831GiB   10.79%    245kB / 154kB     23.6MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         84.30%    533.5MiB / 3.831GiB   13.60%    292kB / 1.25MB    35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      18.40%    331.5MiB / 3.831GiB   8.45%     558kB / 369kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   41.70%    549.4MiB / 3.831GiB   14.00%    1.92MB / 1.64MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   22.84%    484.8MiB / 3.831GiB   12.36%    228kB / 145kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            1.21%     98.61MiB / 3.831GiB   2.51%     1.27MB / 1.78MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         154.40%   592.1MiB / 3.831GiB   15.09%    1.65MB / 2.89MB   47MB / 30.5MB     146
+af85b84761fe   docker-auth-1          45.09%    423.1MiB / 3.831GiB   10.79%    245kB / 154kB     23.6MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         66.33%    533.7MiB / 3.831GiB   13.60%    295kB / 1.27MB    35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      10.02%    331.5MiB / 3.831GiB   8.45%     561kB / 370kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   57.04%    553.5MiB / 3.831GiB   14.11%    1.92MB / 1.64MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   39.85%    485.2MiB / 3.831GiB   12.37%    229kB / 147kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.43%     98.61MiB / 3.831GiB   2.51%     1.27MB / 1.79MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         129.33%   592.1MiB / 3.831GiB   15.09%    1.67MB / 2.94MB   47MB / 30.5MB     146
+af85b84761fe   docker-auth-1          22.97%    423.3MiB / 3.831GiB   10.79%    250kB / 156kB     23.6MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         66.33%    533.7MiB / 3.831GiB   13.60%    295kB / 1.27MB    35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      10.02%    331.5MiB / 3.831GiB   8.45%     561kB / 370kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   57.04%    553.5MiB / 3.831GiB   14.11%    1.92MB / 1.64MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   39.85%    485.2MiB / 3.831GiB   12.37%    229kB / 147kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.43%     98.61MiB / 3.831GiB   2.51%     1.27MB / 1.79MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         129.33%   592.1MiB / 3.831GiB   15.09%    1.67MB / 2.94MB   47MB / 30.5MB     146
+af85b84761fe   docker-auth-1          22.97%    423.3MiB / 3.831GiB   10.79%    250kB / 156kB     23.6MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         51.58%    533.9MiB / 3.831GiB   13.61%    311kB / 1.39MB    35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      9.82%     331.5MiB / 3.831GiB   8.45%     563kB / 372kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   130.19%   564MiB / 3.831GiB     14.38%    1.94MB / 1.66MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   41.17%    481.4MiB / 3.831GiB   12.27%    232kB / 148kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            1.39%     98.61MiB / 3.831GiB   2.51%     1.27MB / 1.8MB    35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         178.90%   592.2MiB / 3.831GiB   15.10%    1.82MB / 3.2MB    47MB / 30.5MB     146
+af85b84761fe   docker-auth-1          31.57%    423.5MiB / 3.831GiB   10.80%    267kB / 162kB     23.6MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         51.58%    533.9MiB / 3.831GiB   13.61%    311kB / 1.39MB    35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      9.82%     331.5MiB / 3.831GiB   8.45%     563kB / 372kB     17.9MB / 9.54MB   56
+46518a37e276   docker-persistence-1   130.19%   564MiB / 3.831GiB     14.38%    1.94MB / 1.66MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   41.17%    481.4MiB / 3.831GiB   12.27%    232kB / 148kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            1.39%     98.61MiB / 3.831GiB   2.51%     1.27MB / 1.8MB    35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         178.90%   592.2MiB / 3.831GiB   15.10%    1.82MB / 3.2MB    47MB / 30.5MB     146
+af85b84761fe   docker-auth-1          31.57%    423.5MiB / 3.831GiB   10.80%    267kB / 162kB     23.6MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         72.46%    534MiB / 3.831GiB     13.61%    316kB / 1.43MB    35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      21.55%    331.6MiB / 3.831GiB   8.45%     565kB / 373kB     17.9MB / 9.56MB   56
+46518a37e276   docker-persistence-1   96.77%    556.3MiB / 3.831GiB   14.18%    1.95MB / 1.66MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   71.91%    481.6MiB / 3.831GiB   12.28%    234kB / 150kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            2.52%     98.61MiB / 3.831GiB   2.51%     1.28MB / 1.8MB    35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         180.80%   592.6MiB / 3.831GiB   15.11%    1.87MB / 3.27MB   47MB / 30.5MB     146
+af85b84761fe   docker-auth-1          91.50%    424.8MiB / 3.831GiB   10.83%    274kB / 164kB     23.6MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         72.46%    534MiB / 3.831GiB     13.61%    316kB / 1.43MB    35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      21.55%    331.6MiB / 3.831GiB   8.45%     565kB / 373kB     17.9MB / 9.56MB   56
+46518a37e276   docker-persistence-1   96.77%    556.3MiB / 3.831GiB   14.18%    1.95MB / 1.66MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   71.91%    481.6MiB / 3.831GiB   12.28%    234kB / 150kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            2.52%     98.61MiB / 3.831GiB   2.51%     1.28MB / 1.8MB    35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         180.80%   592.6MiB / 3.831GiB   15.11%    1.87MB / 3.27MB   47MB / 30.5MB     146
+af85b84761fe   docker-auth-1          91.50%    424.8MiB / 3.831GiB   10.83%    274kB / 164kB     23.6MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         41.78%    534.1MiB / 3.831GiB   13.61%    321kB / 1.46MB    35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      6.62%     331.5MiB / 3.831GiB   8.45%     567kB / 375kB     17.9MB / 9.56MB   56
+46518a37e276   docker-persistence-1   92.29%    559MiB / 3.831GiB     14.25%    1.96MB / 1.67MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   57.32%    482MiB / 3.831GiB     12.29%    234kB / 150kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.63%     98.61MiB / 3.831GiB   2.51%     1.28MB / 1.81MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         99.58%    592.2MiB / 3.831GiB   15.09%    1.92MB / 3.37MB   47MB / 30.5MB     146
+af85b84761fe   docker-auth-1          53.66%    427.2MiB / 3.831GiB   10.89%    279kB / 166kB     23.6MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         41.78%    534.1MiB / 3.831GiB   13.61%    321kB / 1.46MB    35.2MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      6.62%     331.5MiB / 3.831GiB   8.45%     567kB / 375kB     17.9MB / 9.56MB   56
+46518a37e276   docker-persistence-1   92.29%    559MiB / 3.831GiB     14.25%    1.96MB / 1.67MB   37.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   57.32%    482MiB / 3.831GiB     12.29%    234kB / 150kB     29.3MB / 24.3MB   120
+c50a55928516   docker-db-1            0.63%     98.61MiB / 3.831GiB   2.51%     1.28MB / 1.81MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         99.58%    592.2MiB / 3.831GiB   15.09%    1.92MB / 3.37MB   47MB / 30.5MB     146
+af85b84761fe   docker-auth-1          53.66%    427.2MiB / 3.831GiB   10.89%    279kB / 166kB     23.6MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         20.02%    535.4MiB / 3.831GiB   13.65%    323kB / 1.48MB    35.6MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      6.64%     334MiB / 3.831GiB     8.51%     569kB / 376kB     17.9MB / 9.56MB   56
+46518a37e276   docker-persistence-1   125.08%   575.5MiB / 3.831GiB   14.67%    1.96MB / 1.67MB   37.7MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   94.84%    484.8MiB / 3.831GiB   12.36%    234kB / 151kB     29.7MB / 24.3MB   120
+c50a55928516   docker-db-1            0.87%     98.61MiB / 3.831GiB   2.51%     1.28MB / 1.81MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         29.61%    597.4MiB / 3.831GiB   15.23%    1.94MB / 3.39MB   47.4MB / 30.5MB   146
+af85b84761fe   docker-auth-1          20.28%    427.9MiB / 3.831GiB   10.91%    281kB / 167kB     23.6MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         20.02%    535.4MiB / 3.831GiB   13.65%    323kB / 1.48MB    35.6MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      6.64%     334MiB / 3.831GiB     8.51%     569kB / 376kB     17.9MB / 9.56MB   56
+46518a37e276   docker-persistence-1   125.08%   575.5MiB / 3.831GiB   14.67%    1.96MB / 1.67MB   37.7MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   94.84%    484.8MiB / 3.831GiB   12.36%    234kB / 151kB     29.7MB / 24.3MB   120
+c50a55928516   docker-db-1            0.87%     98.61MiB / 3.831GiB   2.51%     1.28MB / 1.81MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         29.61%    597.4MiB / 3.831GiB   15.23%    1.94MB / 3.39MB   47.4MB / 30.5MB   146
+af85b84761fe   docker-auth-1          20.28%    427.9MiB / 3.831GiB   10.91%    281kB / 167kB     23.6MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         20.02%    535.4MiB / 3.831GiB   13.65%    323kB / 1.48MB    35.6MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      6.64%     334MiB / 3.831GiB     8.51%     569kB / 376kB     17.9MB / 9.56MB   56
+46518a37e276   docker-persistence-1   125.08%   575.5MiB / 3.831GiB   14.67%    1.96MB / 1.67MB   37.7MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   94.84%    484.8MiB / 3.831GiB   12.36%    234kB / 151kB     29.7MB / 24.3MB   120
+c50a55928516   docker-db-1            0.87%     98.61MiB / 3.831GiB   2.51%     1.28MB / 1.81MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         134.45%   596.9MiB / 3.831GiB   15.21%    2.15MB / 3.78MB   47.4MB / 30.5MB   146
+af85b84761fe   docker-auth-1          20.28%    427.9MiB / 3.831GiB   10.91%    281kB / 167kB     23.6MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         57.80%    536.2MiB / 3.831GiB   13.67%    347kB / 1.65MB    35.6MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      8.66%     334MiB / 3.831GiB     8.51%     571kB / 377kB     17.9MB / 9.56MB   56
+46518a37e276   docker-persistence-1   55.57%    581.4MiB / 3.831GiB   14.82%    1.99MB / 1.7MB    38MB / 35.1MB     65
+035d48a99e73   docker-recommender-1   26.39%    485.4MiB / 3.831GiB   12.37%    239kB / 153kB     29.7MB / 24.3MB   120
+c50a55928516   docker-db-1            0.92%     98.61MiB / 3.831GiB   2.51%     1.28MB / 1.82MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         134.45%   596.9MiB / 3.831GiB   15.21%    2.15MB / 3.78MB   47.4MB / 30.5MB   146
+af85b84761fe   docker-auth-1          49.11%    428.7MiB / 3.831GiB   10.93%    308kB / 177kB     24.1MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         57.80%    536.2MiB / 3.831GiB   13.67%    347kB / 1.65MB    35.6MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      8.66%     334MiB / 3.831GiB     8.51%     571kB / 377kB     17.9MB / 9.56MB   56
+46518a37e276   docker-persistence-1   55.57%    581.4MiB / 3.831GiB   14.82%    1.99MB / 1.7MB    38MB / 35.1MB     65
+035d48a99e73   docker-recommender-1   26.39%    485.4MiB / 3.831GiB   12.37%    239kB / 153kB     29.7MB / 24.3MB   120
+c50a55928516   docker-db-1            0.92%     98.61MiB / 3.831GiB   2.51%     1.28MB / 1.82MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         134.45%   596.9MiB / 3.831GiB   15.21%    2.15MB / 3.78MB   47.4MB / 30.5MB   146
+af85b84761fe   docker-auth-1          49.11%    428.7MiB / 3.831GiB   10.93%    308kB / 177kB     24.1MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         102.30%   538.6MiB / 3.831GiB   13.73%    370kB / 1.81MB    38.4MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      5.25%     334MiB / 3.831GiB     8.51%     573kB / 378kB     17.9MB / 9.56MB   56
+46518a37e276   docker-persistence-1   66.93%    583.9MiB / 3.831GiB   14.88%    2.02MB / 1.72MB   38MB / 35.1MB     65
+035d48a99e73   docker-recommender-1   29.78%    485.8MiB / 3.831GiB   12.38%    243kB / 156kB     30MB / 24.3MB     120
+c50a55928516   docker-db-1            1.01%     98.61MiB / 3.831GiB   2.51%     1.29MB / 1.84MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         147.71%   597.5MiB / 3.831GiB   15.23%    2.37MB / 4.17MB   47.6MB / 30.5MB   146
+af85b84761fe   docker-auth-1          48.53%    429MiB / 3.831GiB     10.94%    335kB / 186kB     27MB / 24.3MB     61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         102.30%   538.6MiB / 3.831GiB   13.73%    370kB / 1.81MB    38.4MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      5.25%     334MiB / 3.831GiB     8.51%     573kB / 378kB     17.9MB / 9.56MB   56
+46518a37e276   docker-persistence-1   66.93%    583.9MiB / 3.831GiB   14.88%    2.02MB / 1.72MB   38MB / 35.1MB     65
+035d48a99e73   docker-recommender-1   29.78%    485.8MiB / 3.831GiB   12.38%    243kB / 156kB     30MB / 24.3MB     120
+c50a55928516   docker-db-1            1.01%     98.61MiB / 3.831GiB   2.51%     1.29MB / 1.84MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         147.71%   597.5MiB / 3.831GiB   15.23%    2.37MB / 4.17MB   47.6MB / 30.5MB   146
+af85b84761fe   docker-auth-1          48.53%    429MiB / 3.831GiB     10.94%    335kB / 186kB     27MB / 24.3MB     61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         103.91%   538.4MiB / 3.831GiB   13.72%    397kB / 2.02MB    38.4MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      5.68%     334MiB / 3.831GiB     8.51%     575kB / 380kB     17.9MB / 9.56MB   56
+46518a37e276   docker-persistence-1   48.20%    586.6MiB / 3.831GiB   14.95%    2.06MB / 1.75MB   38.2MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   41.47%    485.9MiB / 3.831GiB   12.39%    248kB / 159kB     32.7MB / 24.3MB   120
+c50a55928516   docker-db-1            1.24%     98.61MiB / 3.831GiB   2.51%     1.29MB / 1.86MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         148.35%   597.7MiB / 3.831GiB   15.24%    2.63MB / 4.64MB   48MB / 30.5MB     146
+af85b84761fe   docker-auth-1          48.24%    429.4MiB / 3.831GiB   10.95%    366kB / 197kB     27MB / 24.3MB     61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         103.91%   538.4MiB / 3.831GiB   13.72%    397kB / 2.02MB    38.4MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      5.68%     334MiB / 3.831GiB     8.51%     575kB / 380kB     17.9MB / 9.56MB   56
+46518a37e276   docker-persistence-1   48.20%    586.6MiB / 3.831GiB   14.95%    2.06MB / 1.75MB   38.2MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   41.47%    485.9MiB / 3.831GiB   12.39%    248kB / 159kB     32.7MB / 24.3MB   120
+c50a55928516   docker-db-1            1.24%     98.61MiB / 3.831GiB   2.51%     1.29MB / 1.86MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         148.35%   597.7MiB / 3.831GiB   15.24%    2.63MB / 4.64MB   48MB / 30.5MB     146
+af85b84761fe   docker-auth-1          48.24%    429.4MiB / 3.831GiB   10.95%    366kB / 197kB     27MB / 24.3MB     61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         46.41%    538.5MiB / 3.831GiB   13.73%    415kB / 2.15MB    38.4MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      13.73%    334.1MiB / 3.831GiB   8.52%     578kB / 382kB     17.9MB / 9.56MB   56
+46518a37e276   docker-persistence-1   65.89%    595.6MiB / 3.831GiB   15.18%    2.08MB / 1.77MB   38.2MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   35.96%    486.1MiB / 3.831GiB   12.39%    251kB / 161kB     32.7MB / 24.3MB   120
+c50a55928516   docker-db-1            1.30%     98.61MiB / 3.831GiB   2.51%     1.3MB / 1.88MB    35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         165.34%   598.7MiB / 3.831GiB   15.26%    2.8MB / 4.95MB    50.2MB / 30.5MB   146
+af85b84761fe   docker-auth-1          60.72%    431.1MiB / 3.831GiB   10.99%    388kB / 205kB     27MB / 24.3MB     61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         46.41%    538.5MiB / 3.831GiB   13.73%    415kB / 2.15MB    38.4MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      13.73%    334.1MiB / 3.831GiB   8.52%     578kB / 382kB     17.9MB / 9.56MB   56
+46518a37e276   docker-persistence-1   65.89%    595.6MiB / 3.831GiB   15.18%    2.08MB / 1.77MB   38.2MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   35.96%    486.1MiB / 3.831GiB   12.39%    251kB / 161kB     32.7MB / 24.3MB   120
+c50a55928516   docker-db-1            1.30%     98.61MiB / 3.831GiB   2.51%     1.3MB / 1.88MB    35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         165.34%   598.7MiB / 3.831GiB   15.26%    2.8MB / 4.95MB    50.2MB / 30.5MB   146
+af85b84761fe   docker-auth-1          60.72%    431.1MiB / 3.831GiB   10.99%    388kB / 205kB     27MB / 24.3MB     61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         69.69%    539.5MiB / 3.831GiB   13.75%    440kB / 2.33MB    38.4MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      7.22%     334.1MiB / 3.831GiB   8.52%     580kB / 383kB     17.9MB / 9.56MB   56
+46518a37e276   docker-persistence-1   56.82%    596.7MiB / 3.831GiB   15.21%    2.11MB / 1.8MB    41.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   35.50%    487.3MiB / 3.831GiB   12.42%    255kB / 164kB     32.7MB / 24.3MB   120
+c50a55928516   docker-db-1            1.04%     101.4MiB / 3.831GiB   2.58%     1.3MB / 1.89MB    35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         145.29%   614.3MiB / 3.831GiB   15.66%    3.03MB / 5.35MB   50.9MB / 30.5MB   146
+af85b84761fe   docker-auth-1          54.84%    431.9MiB / 3.831GiB   11.01%    416kB / 215kB     27.1MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         69.69%    539.5MiB / 3.831GiB   13.75%    440kB / 2.33MB    38.4MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      7.22%     334.1MiB / 3.831GiB   8.52%     580kB / 383kB     17.9MB / 9.56MB   56
+46518a37e276   docker-persistence-1   56.82%    596.7MiB / 3.831GiB   15.21%    2.11MB / 1.8MB    41.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   35.50%    487.3MiB / 3.831GiB   12.42%    255kB / 164kB     32.7MB / 24.3MB   120
+c50a55928516   docker-db-1            1.04%     101.4MiB / 3.831GiB   2.58%     1.3MB / 1.89MB    35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         145.29%   614.3MiB / 3.831GiB   15.66%    3.03MB / 5.35MB   50.9MB / 30.5MB   146
+af85b84761fe   docker-auth-1          54.84%    431.9MiB / 3.831GiB   11.01%    416kB / 215kB     27.1MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         83.42%    539.4MiB / 3.831GiB   13.75%    479kB / 2.62MB    38.4MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      9.98%     334.1MiB / 3.831GiB   8.52%     582kB / 385kB     17.9MB / 9.56MB   56
+46518a37e276   docker-persistence-1   68.90%    598.1MiB / 3.831GiB   15.24%    2.17MB / 1.84MB   41.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   31.40%    486.7MiB / 3.831GiB   12.41%    263kB / 168kB     32.7MB / 24.3MB   120
+c50a55928516   docker-db-1            1.52%     103.7MiB / 3.831GiB   2.64%     1.31MB / 1.92MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         170.75%   642.2MiB / 3.831GiB   16.37%    3.42MB / 6.05MB   50.9MB / 30.5MB   146
+af85b84761fe   docker-auth-1          31.59%    431.8MiB / 3.831GiB   11.01%    461kB / 231kB     27.1MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         83.42%    539.4MiB / 3.831GiB   13.75%    479kB / 2.62MB    38.4MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      9.98%     334.1MiB / 3.831GiB   8.52%     582kB / 385kB     17.9MB / 9.56MB   56
+46518a37e276   docker-persistence-1   68.90%    598.1MiB / 3.831GiB   15.24%    2.17MB / 1.84MB   41.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   31.40%    486.7MiB / 3.831GiB   12.41%    263kB / 168kB     32.7MB / 24.3MB   120
+c50a55928516   docker-db-1            1.52%     103.7MiB / 3.831GiB   2.64%     1.31MB / 1.92MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         170.75%   642.2MiB / 3.831GiB   16.37%    3.42MB / 6.05MB   50.9MB / 30.5MB   146
+af85b84761fe   docker-auth-1          31.59%    431.8MiB / 3.831GiB   11.01%    461kB / 231kB     27.1MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         83.42%    539.4MiB / 3.831GiB   13.75%    479kB / 2.62MB    38.4MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      9.98%     334.1MiB / 3.831GiB   8.52%     582kB / 385kB     17.9MB / 9.56MB   56
+46518a37e276   docker-persistence-1   68.90%    598.1MiB / 3.831GiB   15.24%    2.17MB / 1.84MB   41.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   31.40%    486.7MiB / 3.831GiB   12.41%    263kB / 168kB     32.7MB / 24.3MB   120
+c50a55928516   docker-db-1            1.52%     103.7MiB / 3.831GiB   2.64%     1.31MB / 1.92MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         170.75%   642.2MiB / 3.831GiB   16.37%    3.42MB / 6.05MB   50.9MB / 30.5MB   146
+af85b84761fe   docker-auth-1          31.59%    431.8MiB / 3.831GiB   11.01%    461kB / 231kB     27.1MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         77.35%    539.8MiB / 3.831GiB   13.76%    497kB / 2.75MB    38.4MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      11.20%    334.1MiB / 3.831GiB   8.52%     584kB / 386kB     17.9MB / 9.56MB   56
+46518a37e276   docker-persistence-1   109.34%   602.8MiB / 3.831GiB   15.36%    2.19MB / 1.86MB   41.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   63.72%    486.9MiB / 3.831GiB   12.41%    266kB / 170kB     32.8MB / 24.3MB   120
+c50a55928516   docker-db-1            1.53%     104.7MiB / 3.831GiB   2.67%     1.32MB / 1.94MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         157.83%   651.4MiB / 3.831GiB   16.60%    3.58MB / 6.32MB   51MB / 30.5MB     146
+af85b84761fe   docker-auth-1          57.33%    432.6MiB / 3.831GiB   11.03%    481kB / 238kB     27.1MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         77.35%    539.8MiB / 3.831GiB   13.76%    497kB / 2.75MB    38.4MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      11.20%    334.1MiB / 3.831GiB   8.52%     584kB / 386kB     17.9MB / 9.56MB   56
+46518a37e276   docker-persistence-1   109.34%   602.8MiB / 3.831GiB   15.36%    2.19MB / 1.86MB   41.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   63.72%    486.9MiB / 3.831GiB   12.41%    266kB / 170kB     32.8MB / 24.3MB   120
+c50a55928516   docker-db-1            1.53%     104.7MiB / 3.831GiB   2.67%     1.32MB / 1.94MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         157.83%   651.4MiB / 3.831GiB   16.60%    3.58MB / 6.32MB   51MB / 30.5MB     146
+af85b84761fe   docker-auth-1          57.33%    432.6MiB / 3.831GiB   11.03%    481kB / 238kB     27.1MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         67.93%    538.7MiB / 3.831GiB   13.73%    522kB / 2.93MB    38.4MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      4.98%     332.1MiB / 3.831GiB   8.47%     586kB / 388kB     17.9MB / 9.56MB   56
+46518a37e276   docker-persistence-1   41.82%    603.6MiB / 3.831GiB   15.39%    2.22MB / 1.89MB   41.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   63.05%    489.2MiB / 3.831GiB   12.47%    270kB / 172kB     33.1MB / 24.3MB   120
+c50a55928516   docker-db-1            1.21%     100.4MiB / 3.831GiB   2.56%     1.32MB / 1.96MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         147.77%   669MiB / 3.831GiB     17.05%    3.81MB / 6.75MB   51.1MB / 30.5MB   146
+af85b84761fe   docker-auth-1          69.95%    432.9MiB / 3.831GiB   11.03%    510kB / 248kB     27.1MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         67.93%    538.7MiB / 3.831GiB   13.73%    522kB / 2.93MB    38.4MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      4.98%     332.1MiB / 3.831GiB   8.47%     586kB / 388kB     17.9MB / 9.56MB   56
+46518a37e276   docker-persistence-1   41.82%    603.6MiB / 3.831GiB   15.39%    2.22MB / 1.89MB   41.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   63.05%    489.2MiB / 3.831GiB   12.47%    270kB / 172kB     33.1MB / 24.3MB   120
+c50a55928516   docker-db-1            1.21%     100.4MiB / 3.831GiB   2.56%     1.32MB / 1.96MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         147.77%   669MiB / 3.831GiB     17.05%    3.81MB / 6.75MB   51.1MB / 30.5MB   146
+af85b84761fe   docker-auth-1          69.95%    432.9MiB / 3.831GiB   11.03%    510kB / 248kB     27.1MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         44.35%    539MiB / 3.831GiB     13.74%    557kB / 3.19MB    38.4MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      5.39%     332.3MiB / 3.831GiB   8.47%     588kB / 388kB     18.1MB / 9.56MB   56
+46518a37e276   docker-persistence-1   65.88%    606MiB / 3.831GiB     15.45%    2.27MB / 1.93MB   41.7MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   62.81%    491.5MiB / 3.831GiB   12.53%    276kB / 176kB     33.5MB / 24.3MB   120
+c50a55928516   docker-db-1            1.34%     100.4MiB / 3.831GiB   2.56%     1.33MB / 1.98MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         124.99%   676.4MiB / 3.831GiB   17.24%    4.14MB / 7.34MB   51.4MB / 30.5MB   146
+af85b84761fe   docker-auth-1          49.48%    433.4MiB / 3.831GiB   11.05%    550kB / 263kB     27.4MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         44.35%    539MiB / 3.831GiB     13.74%    557kB / 3.19MB    38.4MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      5.39%     332.3MiB / 3.831GiB   8.47%     588kB / 388kB     18.1MB / 9.56MB   56
+46518a37e276   docker-persistence-1   65.88%    606MiB / 3.831GiB     15.45%    2.27MB / 1.93MB   41.7MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   62.81%    491.5MiB / 3.831GiB   12.53%    276kB / 176kB     33.5MB / 24.3MB   120
+c50a55928516   docker-db-1            1.34%     100.4MiB / 3.831GiB   2.56%     1.33MB / 1.98MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         124.99%   676.4MiB / 3.831GiB   17.24%    4.14MB / 7.34MB   51.4MB / 30.5MB   146
+af85b84761fe   docker-auth-1          49.48%    433.4MiB / 3.831GiB   11.05%    550kB / 263kB     27.4MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         27.83%    537.4MiB / 3.831GiB   13.70%    558kB / 3.2MB     38.5MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      8.51%     331.4MiB / 3.831GiB   8.45%     589kB / 390kB     18.1MB / 9.56MB   56
+46518a37e276   docker-persistence-1   64.86%    606.6MiB / 3.831GiB   15.46%    2.27MB / 1.93MB   41.9MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   84.30%    490.9MiB / 3.831GiB   12.51%    277kB / 176kB     36.4MB / 24.3MB   120
+c50a55928516   docker-db-1            0.79%     97.23MiB / 3.831GiB   2.48%     1.33MB / 1.98MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         33.37%    671.5MiB / 3.831GiB   17.12%    4.16MB / 7.37MB   51.4MB / 30.5MB   146
+af85b84761fe   docker-auth-1          132.62%   432.4MiB / 3.831GiB   11.02%    553kB / 263kB     28.8MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         27.83%    537.4MiB / 3.831GiB   13.70%    558kB / 3.2MB     38.5MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      8.51%     331.4MiB / 3.831GiB   8.45%     589kB / 390kB     18.1MB / 9.56MB   56
+46518a37e276   docker-persistence-1   64.86%    606.6MiB / 3.831GiB   15.46%    2.27MB / 1.93MB   41.9MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   84.30%    490.9MiB / 3.831GiB   12.51%    277kB / 176kB     36.4MB / 24.3MB   120
+c50a55928516   docker-db-1            0.79%     97.23MiB / 3.831GiB   2.48%     1.33MB / 1.98MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         33.37%    671.5MiB / 3.831GiB   17.12%    4.16MB / 7.37MB   51.4MB / 30.5MB   146
+af85b84761fe   docker-auth-1          132.62%   432.4MiB / 3.831GiB   11.02%    553kB / 263kB     28.8MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         62.38%    537.5MiB / 3.831GiB   13.70%    575kB / 3.33MB    41.5MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      15.88%    331.5MiB / 3.831GiB   8.45%     592kB / 392kB     18.1MB / 9.56MB   56
+46518a37e276   docker-persistence-1   39.57%    607MiB / 3.831GiB     15.47%    2.29MB / 1.95MB   41.9MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   43.35%    492.2MiB / 3.831GiB   12.54%    279kB / 178kB     37.4MB / 24.3MB   120
+c50a55928516   docker-db-1            1.72%     97.23MiB / 3.831GiB   2.48%     1.34MB / 1.99MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         90.09%    671.8MiB / 3.831GiB   17.12%    4.32MB / 7.63MB   51.6MB / 30.5MB   146
+af85b84761fe   docker-auth-1          84.44%    431.4MiB / 3.831GiB   11.00%    571kB / 270kB     31.8MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         62.38%    537.5MiB / 3.831GiB   13.70%    575kB / 3.33MB    41.5MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      15.88%    331.5MiB / 3.831GiB   8.45%     592kB / 392kB     18.1MB / 9.56MB   56
+46518a37e276   docker-persistence-1   39.57%    607MiB / 3.831GiB     15.47%    2.29MB / 1.95MB   41.9MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   43.35%    492.2MiB / 3.831GiB   12.54%    279kB / 178kB     37.4MB / 24.3MB   120
+c50a55928516   docker-db-1            1.72%     97.23MiB / 3.831GiB   2.48%     1.34MB / 1.99MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         90.09%    671.8MiB / 3.831GiB   17.12%    4.32MB / 7.63MB   51.6MB / 30.5MB   146
+af85b84761fe   docker-auth-1          84.44%    431.4MiB / 3.831GiB   11.00%    571kB / 270kB     31.8MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         47.91%    537.6MiB / 3.831GiB   13.70%    598kB / 3.5MB     41.5MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      8.27%     331.5MiB / 3.831GiB   8.45%     595kB / 393kB     18.1MB / 9.56MB   56
+46518a37e276   docker-persistence-1   85.23%    610MiB / 3.831GiB     15.55%    2.32MB / 1.97MB   45.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   35.26%    492.6MiB / 3.831GiB   12.56%    283kB / 181kB     37.4MB / 24.4MB   120
+c50a55928516   docker-db-1            1.46%     97.23MiB / 3.831GiB   2.48%     1.34MB / 2.01MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         163.36%   673.2MiB / 3.831GiB   17.16%    4.54MB / 8.02MB   54.2MB / 30.8MB   146
+af85b84761fe   docker-auth-1          40.96%    431.5MiB / 3.831GiB   11.00%    599kB / 280kB     31.9MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         47.91%    537.6MiB / 3.831GiB   13.70%    598kB / 3.5MB     41.5MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      8.27%     331.5MiB / 3.831GiB   8.45%     595kB / 393kB     18.1MB / 9.56MB   56
+46518a37e276   docker-persistence-1   85.23%    610MiB / 3.831GiB     15.55%    2.32MB / 1.97MB   45.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   35.26%    492.6MiB / 3.831GiB   12.56%    283kB / 181kB     37.4MB / 24.4MB   120
+c50a55928516   docker-db-1            1.46%     97.23MiB / 3.831GiB   2.48%     1.34MB / 2.01MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         163.36%   673.2MiB / 3.831GiB   17.16%    4.54MB / 8.02MB   54.2MB / 30.8MB   146
+af85b84761fe   docker-auth-1          40.96%    431.5MiB / 3.831GiB   11.00%    599kB / 280kB     31.9MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         103.80%   538.5MiB / 3.831GiB   13.73%    640kB / 3.82MB    41.5MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      7.59%     331.4MiB / 3.831GiB   8.45%     597kB / 395kB     18.1MB / 9.56MB   56
+46518a37e276   docker-persistence-1   37.04%    610.8MiB / 3.831GiB   15.57%    2.38MB / 2.02MB   45.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   34.20%    493.7MiB / 3.831GiB   12.58%    292kB / 185kB     37.6MB / 24.4MB   120
+c50a55928516   docker-db-1            1.07%     97.23MiB / 3.831GiB   2.48%     1.35MB / 2.04MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         151.28%   673.5MiB / 3.831GiB   17.17%    4.93MB / 8.72MB   54.4MB / 30.8MB   146
+af85b84761fe   docker-auth-1          29.62%    431.8MiB / 3.831GiB   11.01%    647kB / 297kB     31.9MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         103.80%   538.5MiB / 3.831GiB   13.73%    640kB / 3.82MB    41.5MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      7.59%     331.4MiB / 3.831GiB   8.45%     597kB / 395kB     18.1MB / 9.56MB   56
+46518a37e276   docker-persistence-1   37.04%    610.8MiB / 3.831GiB   15.57%    2.38MB / 2.02MB   45.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   34.20%    493.7MiB / 3.831GiB   12.58%    292kB / 185kB     37.6MB / 24.4MB   120
+c50a55928516   docker-db-1            1.07%     97.23MiB / 3.831GiB   2.48%     1.35MB / 2.04MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         151.28%   673.5MiB / 3.831GiB   17.17%    4.93MB / 8.72MB   54.4MB / 30.8MB   146
+af85b84761fe   docker-auth-1          29.62%    431.8MiB / 3.831GiB   11.01%    647kB / 297kB     31.9MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         103.80%   538.5MiB / 3.831GiB   13.73%    640kB / 3.82MB    41.5MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      7.59%     331.4MiB / 3.831GiB   8.45%     597kB / 395kB     18.1MB / 9.56MB   56
+46518a37e276   docker-persistence-1   37.04%    610.8MiB / 3.831GiB   15.57%    2.38MB / 2.02MB   45.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   34.20%    493.7MiB / 3.831GiB   12.58%    292kB / 185kB     37.6MB / 24.4MB   120
+c50a55928516   docker-db-1            1.07%     97.23MiB / 3.831GiB   2.48%     1.35MB / 2.04MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         151.28%   673.5MiB / 3.831GiB   17.17%    4.93MB / 8.72MB   54.4MB / 30.8MB   146
+af85b84761fe   docker-auth-1          29.62%    431.8MiB / 3.831GiB   11.01%    647kB / 297kB     31.9MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         84.09%    537.8MiB / 3.831GiB   13.71%    667kB / 4.01MB    41.5MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      17.16%    331.5MiB / 3.831GiB   8.45%     599kB / 396kB     18.1MB / 9.56MB   56
+46518a37e276   docker-persistence-1   59.53%    610.8MiB / 3.831GiB   15.57%    2.42MB / 2.05MB   45.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   65.41%    437MiB / 3.831GiB     11.14%    296kB / 188kB     38.2MB / 87.1MB   120
+c50a55928516   docker-db-1            2.10%     97.23MiB / 3.831GiB   2.48%     1.36MB / 2.06MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         104.95%   673.3MiB / 3.831GiB   17.16%    5.21MB / 9.22MB   55.1MB / 30.8MB   146
+af85b84761fe   docker-auth-1          109.24%   437.3MiB / 3.831GiB   11.15%    677kB / 308kB     31.9MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         84.09%    537.8MiB / 3.831GiB   13.71%    667kB / 4.01MB    41.5MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      17.16%    331.5MiB / 3.831GiB   8.45%     599kB / 396kB     18.1MB / 9.56MB   56
+46518a37e276   docker-persistence-1   59.53%    610.8MiB / 3.831GiB   15.57%    2.42MB / 2.05MB   45.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   65.41%    437MiB / 3.831GiB     11.14%    296kB / 188kB     38.2MB / 87.1MB   120
+c50a55928516   docker-db-1            2.10%     97.23MiB / 3.831GiB   2.48%     1.36MB / 2.06MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         104.95%   673.3MiB / 3.831GiB   17.16%    5.21MB / 9.22MB   55.1MB / 30.8MB   146
+af85b84761fe   docker-auth-1          109.24%   437.3MiB / 3.831GiB   11.15%    677kB / 308kB     31.9MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         52.17%    537.8MiB / 3.831GiB   13.71%    712kB / 4.34MB    41.5MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      10.46%    331.5MiB / 3.831GiB   8.45%     601kB / 398kB     18.1MB / 9.56MB   56
+46518a37e276   docker-persistence-1   60.97%    612.2MiB / 3.831GiB   15.60%    2.48MB / 2.1MB    45.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   38.69%    437MiB / 3.831GiB     11.14%    304kB / 193kB     38.5MB / 87.1MB   120
+c50a55928516   docker-db-1            1.65%     97.23MiB / 3.831GiB   2.48%     1.37MB / 2.1MB    35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         156.88%   674.6MiB / 3.831GiB   17.20%    5.64MB / 9.99MB   55.3MB / 30.8MB   146
+af85b84761fe   docker-auth-1          49.05%    438.5MiB / 3.831GiB   11.18%    728kB / 327kB     31.9MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         52.17%    537.8MiB / 3.831GiB   13.71%    712kB / 4.34MB    41.5MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      10.46%    331.5MiB / 3.831GiB   8.45%     601kB / 398kB     18.1MB / 9.56MB   56
+46518a37e276   docker-persistence-1   60.97%    612.2MiB / 3.831GiB   15.60%    2.48MB / 2.1MB    45.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   38.69%    437MiB / 3.831GiB     11.14%    304kB / 193kB     38.5MB / 87.1MB   120
+c50a55928516   docker-db-1            1.65%     97.23MiB / 3.831GiB   2.48%     1.37MB / 2.1MB    35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         156.88%   674.6MiB / 3.831GiB   17.20%    5.64MB / 9.99MB   55.3MB / 30.8MB   146
+af85b84761fe   docker-auth-1          49.05%    438.5MiB / 3.831GiB   11.18%    728kB / 327kB     31.9MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         54.82%    538.1MiB / 3.831GiB   13.72%    748kB / 4.6MB     41.7MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      4.19%     331.5MiB / 3.831GiB   8.45%     602kB / 398kB     18.1MB / 9.56MB   56
+46518a37e276   docker-persistence-1   49.48%    613.8MiB / 3.831GiB   15.64%    2.52MB / 2.13MB   45.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   41.91%    437.4MiB / 3.831GiB   11.15%    310kB / 196kB     38.6MB / 87.1MB   120
+c50a55928516   docker-db-1            1.38%     97.23MiB / 3.831GiB   2.48%     1.37MB / 2.13MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         113.69%   674.2MiB / 3.831GiB   17.19%    5.98MB / 10.6MB   55.3MB / 30.8MB   146
+af85b84761fe   docker-auth-1          91.94%    435.2MiB / 3.831GiB   11.09%    769kB / 341kB     31.9MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         54.82%    538.1MiB / 3.831GiB   13.72%    748kB / 4.6MB     41.7MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      4.19%     331.5MiB / 3.831GiB   8.45%     602kB / 398kB     18.1MB / 9.56MB   56
+46518a37e276   docker-persistence-1   49.48%    613.8MiB / 3.831GiB   15.64%    2.52MB / 2.13MB   45.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   41.91%    437.4MiB / 3.831GiB   11.15%    310kB / 196kB     38.6MB / 87.1MB   120
+c50a55928516   docker-db-1            1.38%     97.23MiB / 3.831GiB   2.48%     1.37MB / 2.13MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         113.69%   674.2MiB / 3.831GiB   17.19%    5.98MB / 10.6MB   55.3MB / 30.8MB   146
+af85b84761fe   docker-auth-1          91.94%    435.2MiB / 3.831GiB   11.09%    769kB / 341kB     31.9MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         103.98%   538.7MiB / 3.831GiB   13.73%    795kB / 4.96MB    41.7MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      8.45%     331.5MiB / 3.831GiB   8.45%     604kB / 400kB     18.1MB / 9.56MB   56
+46518a37e276   docker-persistence-1   62.95%    614.5MiB / 3.831GiB   15.66%    2.58MB / 2.18MB   45.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   50.20%    438MiB / 3.831GiB     11.16%    319kB / 201kB     39.1MB / 87.1MB   120
+c50a55928516   docker-db-1            1.97%     97.23MiB / 3.831GiB   2.48%     1.38MB / 2.16MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         136.80%   674.2MiB / 3.831GiB   17.19%    6.42MB / 11.4MB   55.5MB / 30.8MB   146
+af85b84761fe   docker-auth-1          70.17%    435.1MiB / 3.831GiB   11.09%    822kB / 360kB     31.9MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         103.98%   538.7MiB / 3.831GiB   13.73%    795kB / 4.96MB    41.7MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      8.45%     331.5MiB / 3.831GiB   8.45%     604kB / 400kB     18.1MB / 9.56MB   56
+46518a37e276   docker-persistence-1   62.95%    614.5MiB / 3.831GiB   15.66%    2.58MB / 2.18MB   45.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   50.20%    438MiB / 3.831GiB     11.16%    319kB / 201kB     39.1MB / 87.1MB   120
+c50a55928516   docker-db-1            1.97%     97.23MiB / 3.831GiB   2.48%     1.38MB / 2.16MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         136.80%   674.2MiB / 3.831GiB   17.19%    6.42MB / 11.4MB   55.5MB / 30.8MB   146
+af85b84761fe   docker-auth-1          70.17%    435.1MiB / 3.831GiB   11.09%    822kB / 360kB     31.9MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         60.91%    538.7MiB / 3.831GiB   13.73%    832kB / 5.23MB    41.7MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      5.94%     331.5MiB / 3.831GiB   8.45%     607kB / 401kB     18.1MB / 9.56MB   56
+46518a37e276   docker-persistence-1   35.76%    614.8MiB / 3.831GiB   15.67%    2.64MB / 2.22MB   45.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   40.97%    438.7MiB / 3.831GiB   11.18%    325kB / 205kB     39.3MB / 87.1MB   120
+c50a55928516   docker-db-1            1.47%     97.24MiB / 3.831GiB   2.48%     1.39MB / 2.19MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         170.21%   675.5MiB / 3.831GiB   17.22%    6.79MB / 12MB     55.8MB / 30.8MB   146
+af85b84761fe   docker-auth-1          45.62%    435.4MiB / 3.831GiB   11.10%    863kB / 376kB     31.9MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         60.91%    538.7MiB / 3.831GiB   13.73%    832kB / 5.23MB    41.7MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      5.94%     331.5MiB / 3.831GiB   8.45%     607kB / 401kB     18.1MB / 9.56MB   56
+46518a37e276   docker-persistence-1   35.76%    614.8MiB / 3.831GiB   15.67%    2.64MB / 2.22MB   45.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   40.97%    438.7MiB / 3.831GiB   11.18%    325kB / 205kB     39.3MB / 87.1MB   120
+c50a55928516   docker-db-1            1.47%     97.24MiB / 3.831GiB   2.48%     1.39MB / 2.19MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         170.21%   675.5MiB / 3.831GiB   17.22%    6.79MB / 12MB     55.8MB / 30.8MB   146
+af85b84761fe   docker-auth-1          45.62%    435.4MiB / 3.831GiB   11.10%    863kB / 376kB     31.9MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         60.91%    538.7MiB / 3.831GiB   13.73%    832kB / 5.23MB    41.7MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      15.46%    331.6MiB / 3.831GiB   8.45%     609kB / 403kB     18.3MB / 9.56MB   56
+46518a37e276   docker-persistence-1   35.76%    614.8MiB / 3.831GiB   15.67%    2.64MB / 2.22MB   45.5MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   40.97%    438.7MiB / 3.831GiB   11.18%    325kB / 205kB     39.3MB / 87.1MB   120
+c50a55928516   docker-db-1            1.47%     97.24MiB / 3.831GiB   2.48%     1.39MB / 2.19MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         170.21%   675.5MiB / 3.831GiB   17.22%    6.79MB / 12MB     55.8MB / 30.8MB   146
+af85b84761fe   docker-auth-1          45.62%    435.4MiB / 3.831GiB   11.10%    863kB / 376kB     31.9MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         56.77%    539.2MiB / 3.831GiB   13.74%    872kB / 5.53MB    41.7MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      15.46%    331.6MiB / 3.831GiB   8.45%     609kB / 403kB     18.3MB / 9.56MB   56
+46518a37e276   docker-persistence-1   58.90%    615.9MiB / 3.831GiB   15.70%    2.69MB / 2.27MB   45.6MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   35.90%    438.9MiB / 3.831GiB   11.19%    332kB / 209kB     39.4MB / 87.1MB   120
+c50a55928516   docker-db-1            1.33%     97.23MiB / 3.831GiB   2.48%     1.4MB / 2.22MB    35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         161.25%   675.5MiB / 3.831GiB   17.22%    7.14MB / 12.6MB   55.9MB / 30.8MB   146
+af85b84761fe   docker-auth-1          60.10%    435.7MiB / 3.831GiB   11.11%    907kB / 392kB     31.9MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         56.77%    539.2MiB / 3.831GiB   13.74%    872kB / 5.53MB    41.7MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      15.46%    331.6MiB / 3.831GiB   8.45%     609kB / 403kB     18.3MB / 9.56MB   56
+46518a37e276   docker-persistence-1   58.90%    615.9MiB / 3.831GiB   15.70%    2.69MB / 2.27MB   45.6MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   35.90%    438.9MiB / 3.831GiB   11.19%    332kB / 209kB     39.4MB / 87.1MB   120
+c50a55928516   docker-db-1            1.33%     97.23MiB / 3.831GiB   2.48%     1.4MB / 2.22MB    35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         161.25%   675.5MiB / 3.831GiB   17.22%    7.14MB / 12.6MB   55.9MB / 30.8MB   146
+af85b84761fe   docker-auth-1          60.10%    435.7MiB / 3.831GiB   11.11%    907kB / 392kB     31.9MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         98.76%    539.1MiB / 3.831GiB   13.74%    914kB / 5.83MB    41.7MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      8.49%     332.1MiB / 3.831GiB   8.46%     612kB / 405kB     18.3MB / 9.56MB   56
+46518a37e276   docker-persistence-1   72.70%    617.8MiB / 3.831GiB   15.75%    2.74MB / 2.31MB   45.6MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   45.56%    439.5MiB / 3.831GiB   11.20%    339kB / 213kB     41.8MB / 87.1MB   120
+c50a55928516   docker-db-1            1.35%     97.23MiB / 3.831GiB   2.48%     1.41MB / 2.25MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         154.85%   675.4MiB / 3.831GiB   17.22%    7.54MB / 13.4MB   55.9MB / 30.8MB   146
+af85b84761fe   docker-auth-1          51.56%    436MiB / 3.831GiB     11.11%    954kB / 408kB     31.9MB / 24.3MB   61
+[2J[HCONTAINER ID   NAME                   CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O         PIDS
+e35d56903b52   docker-image-1         98.76%    539.1MiB / 3.831GiB   13.74%    914kB / 5.83MB    41.7MB / 56.1MB   126
+941b8519a4c9   docker-registry-1      8.49%     332.1MiB / 3.831GiB   8.46%     612kB / 405kB     18.3MB / 9.56MB   56
+46518a37e276   docker-persistence-1   72.70%    617.8MiB / 3.831GiB   15.75%    2.74MB / 2.31MB   45.6MB / 35.1MB   65
+035d48a99e73   docker-recommender-1   45.56%    439.5MiB / 3.831GiB   11.20%    339kB / 213kB     41.8MB / 87.1MB   120
+c50a55928516   docker-db-1            1.35%     97.23MiB / 3.831GiB   2.48%     1.41MB / 2.25MB   35.8MB / 149MB    38
+16525cc8db74   docker-webui-1         154.85%   675.4MiB / 3.831GiB   17.22%    7.54MB / 13.4MB   55.9MB / 30.8MB   146
+af85b84761fe   docker-auth-1          51.56%    436MiB / 3.831GiB     11.11%    954kB / 408kB     31.9MB / 24.3MB   61
